@@ -7,7 +7,7 @@ EcoScope adalah aplikasi untuk membantu pengguna mengklasifikasikan jenis sampah
 > ♻️ **Recycle**: plastik, botol, kaca
 > 🍃 **Organic**: sisa makanan, daun, dll
 
-Aplikasi ini memberikan wawasan pengelolaan sampah yang ramah lingkungan secara **real-time** melalui kamera.
+Memberikan wawasan pengelolaan sampah yang ramah lingkungan secara **real-time** melalui kamera.
 
 ## Teknologi yang Digunakan
 
@@ -20,7 +20,7 @@ Aplikasi ini memberikan wawasan pengelolaan sampah yang ramah lingkungan secara 
 ---
 
 ## Dataset
-**Waste Classification Dataset**
+Waste Classification Dataset
 [Kaggle: Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data)
 ---
 ## 📈 Hasil Training
@@ -55,8 +55,6 @@ Aplikasi ini memberikan wawasan pengelolaan sampah yang ramah lingkungan secara 
 ---
 
 ## Demo Aplikasi
-
-(Upload video demo ke YouTube, lalu embed link-nya di sini kalau ada)
 [![Demo Video](images/thumbnail.png)](https://youtu.be/fIZHUiWRCRI)
 
 ---
